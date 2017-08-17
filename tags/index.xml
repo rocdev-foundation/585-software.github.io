@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 585 Software</title>
-    <link>https://585-software.github.io/tags/</link>
-    <description>Recent content in Tags on 585 Software</description>
+    <title>Tags on RocDev</title>
+    <link>http://rocdev.org/tags/</link>
+    <description>Recent content in Tags on RocDev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://585-software.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rocdev.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

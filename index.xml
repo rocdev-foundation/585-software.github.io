@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>585 Software</title>
-    <link>https://585-software.github.io/</link>
-    <description>Recent content on 585 Software</description>
+    <title>RocDev</title>
+    <link>http://rocdev.org/</link>
+    <description>Recent content on RocDev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Aug 2017 19:40:40 -0400</lastBuildDate>
     
-	<atom:link href="https://585-software.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rocdev.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code Of Conduct</title>
-      <link>https://585-software.github.io/code-of-conduct/</link>
+      <link>http://rocdev.org/code-of-conduct/</link>
       <pubDate>Mon, 07 Aug 2017 19:40:40 -0400</pubDate>
       
-      <guid>https://585-software.github.io/code-of-conduct/</guid>
+      <guid>http://rocdev.org/code-of-conduct/</guid>
       <description>Our Pledge In the interest of fostering an open and welcoming environment, we as contributors, maintainers, and organizers pledge to making participation in our projects and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 Our Standards Examples of behavior that contributes to creating a positive environment include:</description>
     </item>
